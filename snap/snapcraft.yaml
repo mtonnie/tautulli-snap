@@ -4,7 +4,7 @@ summary: A python based web application for monitoring, analytics and notificati
 description: |
   to be completed
 
-grade:devel
+grade: devel
 confinement: devmode # use 'strict' once you have the right plugs and slots
 
 parts:
