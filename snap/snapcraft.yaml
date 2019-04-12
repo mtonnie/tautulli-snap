@@ -12,3 +12,4 @@ parts:
     plugin: python
     python-version: python2
     source: https://github.com/Tautulli/Tautulli.git
+ 
